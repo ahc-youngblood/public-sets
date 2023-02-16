@@ -1,6 +1,6 @@
 # R8 
 
-![](../Pasted_image_20230216133815.png)
+![](Pasted_image_20230216133815.png)
 
 a) $\theta_1$ is the angle between the incoming light ray and the first (from the left) dashed surface normal. $\theta_2$ is the angle between the light path labeled $L$ and the same dashed line. $\theta_3$ is the angle between the light path $L$ and the second dashed surface normal and $\theta_4$ is the angle between the outgoing light ray and the same second (from the left) dashed line.
 
