@@ -9,6 +9,7 @@ b) $\theta_2$ and $\theta_3$ are equal because the two faces of the prism of len
 $$
 n_1\sin\theta_1 = n_2\sin\theta_2 = n_2\sin\theta_3 = n_1\sin\theta_4
 $$
+
 c) The figure makes sense as long as $n_1 < n_2$
 
 d) 
