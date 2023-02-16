@@ -21,9 +21,7 @@ $\Rightarrow \theta_1 - \theta_2 = \alpha$
 $$
 \begin{aligned}
 \frac{t}{\cos\theta_2} &= L\\
-
 L\sin\alpha &= d\\
-
 d &= t\frac{\sin\alpha}{\cos\theta_2}\\
 \end{aligned}
 $$
