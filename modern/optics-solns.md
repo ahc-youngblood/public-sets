@@ -64,44 +64,44 @@ This last distance is measured from the second (diverging) lens. The second lens
 In general for light passing through a lens to a mirror and then back through the lens:
 
 $$
-\begin{pmatrix}
-y_{out} \\ 
-\theta_{out} \\ 
-\end{pmatrix}
-=
-\begin{bmatrix}
-1 & d_i \\
-0 & 1 \\
-\end{bmatrix}
-\begin{pmatrix}
-1 & 0 \\
--\frac{1}{f} & 1 \\
-\end{pmatrix}
-\begin{pmatrix}
-1 & d_1 \\
-0 & 1 \\
-\end{pmatrix}
-\begin{pmatrix}
-1 & 0 \\
--\frac{2}{R} &1 \\
-\end{pmatrix}
-\begin{pmatrix}
-1 & d_1 \\
-0 & 1 \\
-\end{pmatrix}
-\begin{pmatrix}
-1 & 0 \\
--\frac{1}{f} & 1 \\
-\end{pmatrix}
-\begin{pmatrix}
-1 & d_o \\
-0 & 1 \\
-\end{pmatrix}
-\begin{pmatrix}
-y_{in} \\
-\theta_{in} \\
-\end{pmatrix}
-$$
+	\begin{pmatrix}
+	y_{out} \\ 
+	\theta_{out} \\ 
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+	1 & d_i \\
+	0 & 1 \\
+	\end{pmatrix}
+	\begin{pmatrix}
+	1 & 0 \\
+	-\frac{1}{f} & 1 \\
+	\end{pmatrix}
+	\begin{pmatrix}
+	1 & d_1 \\
+	0 & 1 \\
+	\end{pmatrix}
+	\begin{pmatrix}
+	1 & 0 \\
+	-\frac{2}{R} &1 \\
+	\end{pmatrix}
+	\begin{pmatrix}
+	1 & d_1 \\
+	0 & 1 \\
+	\end{pmatrix}
+	\begin{pmatrix}
+	1 & 0 \\
+	-\frac{1}{f} & 1 \\
+	\end{pmatrix}
+	\begin{pmatrix}
+	1 & d_o \\
+	0 & 1 \\
+	\end{pmatrix}
+	\begin{pmatrix}
+	y_{in} \\
+	\theta_{in} \\
+	\end{pmatrix}
+	$$
 which can be collected first to:
 
 $$
