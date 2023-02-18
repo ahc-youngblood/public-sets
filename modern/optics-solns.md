@@ -64,15 +64,15 @@ This last distance is measured from the second (diverging) lens. The second lens
 In general for light passing through a lens to a mirror and then back through the lens:
 
 $$
-\begin{pmatrix}
+\begin{bmatrix}
 y_{out} \\ 
 \theta_{out} \\ 
-\end{pmatrix}
+\end{bmatrix}
 =
-\begin{pmatrix}
+\begin{bmatrix}
 1 & d_i \\
 0 & 1 \\
-\end{pmatrix}
+\end{bmatrix}
 \begin{pmatrix}
 1 & 0 \\
 -\frac{1}{f} & 1 \\
