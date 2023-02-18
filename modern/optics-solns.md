@@ -65,8 +65,8 @@ In general for light passing through a lens to a mirror and then back through th
 
 $$
 \begin{pmatrix}
-yout \\ 
-\theta out \\ 
+y_{out} \\ 
+\theta_{out} \\ 
 \end{pmatrix}
 =
 \begin{bmatrix}
