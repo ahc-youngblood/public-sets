@@ -70,32 +70,32 @@ y_{out} \\
 \end{pmatrix}
 =
 \begin{pmatrix}
-1 &d_i \\
-0 &1 \\
+1 & d_i \\
+0 & 1 \\
 \end{pmatrix}
 \begin{pmatrix}
 1 & 0 \\
--\frac{1}{f} &1 \\
+-\frac{1}{f} & 1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1 \\
-0 &1 \\
+1 & d_1 \\
+0 & 1 \\
 \end{pmatrix}
 \begin{pmatrix}
 1 & 0 \\
 -\frac{2}{R} &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1 \\
-0 &1 \\
+1 & d_1 \\
+0 & 1 \\
 \end{pmatrix}
 \begin{pmatrix}
 1 & 0 \\
--\frac{1}{f} &1 \\
+-\frac{1}{f} & 1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_o \\
-0 &1 \\
+1 & d_o \\
+0 & 1 \\
 \end{pmatrix}
 \begin{pmatrix}
 y_{in} \\
