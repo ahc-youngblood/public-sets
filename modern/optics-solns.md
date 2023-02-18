@@ -65,74 +65,74 @@ In general for light passing through a lens to a mirror and then back through th
 
 $$
 \begin{pmatrix}
-y_{out}\\
-\theta_{out}
+y_{out} \\
+\theta_{out} \\
 \end{pmatrix}
 =
 \begin{pmatrix}
-1 &d_i\\
-0 &1
+1 &d_i \\
+0 &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 & 0\\
--\frac{1}{f} &1
+1 & 0 \\
+-\frac{1}{f} &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1\\
-0 &1
+1 &d_1 \\
+0 &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 & 0\\
--\frac{2}{R} &1
+1 & 0 \\
+-\frac{2}{R} &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1\\
-0 &1
+1 &d_1 \\
+0 &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 & 0\\
--\frac{1}{f} &1
+1 & 0 \\
+-\frac{1}{f} &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_o\\
-0 &1
+1 &d_o \\
+0 &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-y_{in}\\
-\theta_{in}
+y_{in} \\
+\theta_{in} \\
 \end{pmatrix}
 $$
 which can be collected first to:
 
 $$
 \begin{pmatrix}
-y_{out}\\
-\theta_{out}
+y_{out} \\
+\theta_{out} \\
 \end{pmatrix}
 =
 \begin{pmatrix}
-1 &d_i\\
-0 &1
+1 &d_i \\
+0 &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1\\
--\frac{1}{f} &1 - \frac{d_1}{f}
+1 &d_1 \\
+-\frac{1}{f} &1 - \frac{d_1}{f} \\
 \end{pmatrix}
 \begin{pmatrix}
-1 & 0\\
--\frac{2}{R} &1
+1 & 0 \\
+-\frac{2}{R} &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1\\
-0 &1
+1 &d_1 \\
+0 &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_o\\
--\frac{1}{f} &1 - \frac{d_o}{f}
+1 &d_o \\
+-\frac{1}{f} &1 - \frac{d_o}{f} \\
 \end{pmatrix}
 \begin{pmatrix}
-y_{in}\\
-\theta_{in}
+y_{in} \\
+\theta_{in} \\
 \end{pmatrix}
 $$
 
@@ -140,29 +140,29 @@ and then to:
 
 $$
 \begin{pmatrix}
-y_{out}\\
-\theta_{out}
+y_{out} \\
+\theta_{out} \\
 \end{pmatrix}
 =
 \begin{pmatrix}
-1 &d_i\\
-0 &1
+1 &d_i \\
+0 &1 \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1\\
--\frac{1}{f} &1 - \frac{d_1}{f}
+1 &d_1 \\
+-\frac{1}{f} &1 - \frac{d_1}{f} \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_1\\
--\frac{2}{R} &1 - \frac{2d_1}{R}
+1 &d_1 \\
+-\frac{2}{R} &1 - \frac{2d_1}{R} \\
 \end{pmatrix}
 \begin{pmatrix}
-1 &d_o\\
--\frac{1}{f} &1 - \frac{d_o}{f}
+1 &d_o \\
+-\frac{1}{f} &1 - \frac{d_o}{f} \\
 \end{pmatrix}
 \begin{pmatrix}
-y_{in}\\
-\theta_{in}
+y_{in} \\
+\theta_{in} \\
 \end{pmatrix}
 $$
 
